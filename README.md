@@ -1,6 +1,3 @@
-## Demo Video
-[Watch Demo](https://youtu.be/yz37hjO9mIA?si=JJ6gpPwuq34-c18G)
-
 **6-bit SAP Computer Architecture – Digital Logic Design & Functional Verification**
 
 ---
@@ -185,3 +182,7 @@ The project provides practical insight into how processors operate internally an
 - RTL development
 - SoC verification
 - Embedded hardware engineering
+
+## Demo Video
+[Watch Demo](https://youtu.be/yz37hjO9mIA?si=JJ6gpPwuq34-c18G)
+
